@@ -21,4 +21,4 @@
 
 #### On a personal Note:
 
-Most of the professional work I have done is done privately (for companies that do not open souce). I would like to start participating more on open-source projects and contribute a little more in this amazing community.
+Most of the professional work I have done is done privately (for companies that do not open souce). I would like to start participating more on open-source projects and contribute a little more in this amazing community
