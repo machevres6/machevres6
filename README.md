@@ -17,7 +17,7 @@
 
 #### My Current Stack
 
-<img height="48" src="img/python-original.svg" alt="python"> <img height="48" src="img/django-plain-wordmark.svg" alt="Django"> <img height="48" src="img/flask-logo.png" alt="Flask"> <img height="48" src="img/GraphQL_Logo1.png" alt="GraphQL"> <img height="48" src="img/react-original.svg" alt="React"> <img height="48" src="img/docker-original1.svg" alt="Docker">
+<img height="48" src="img/python-original.svg" alt="python"> <img height="48" src="img/nodejs_logo.png" alt="NodeJS"> <img height="48" src="img/typescript.png" alt="TS"> <img height="48" src="img/django-plain-wordmark.svg" alt="Django"> <img height="48" src="img/flask-logo.png" alt="Flask"> <img height="48" src="img/nestjs.png" alt="NestJS"> <img height="48" src="img/GraphQL_Logo1.png" alt="GraphQL"> <img height="48" src="img/react-original.svg" alt="React"> <img height="48" src="img/docker-original1.svg" alt="Docker"> 
 
 #### On a personal Note:
 
