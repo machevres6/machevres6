@@ -2,9 +2,9 @@
 
 #### Now:
 
-- Research Engineer at [Indeed](https://indeed.com).
-- Interest in Data Science and Full-Stack development.
-- Looking to contribute in python based open source web-apps or any other project.
+- Software Engineer 2 at [Indeed](https://indeed.com).
+- Interest in AI and Full-Stack development.
+- Looking to contribute in python based open source web-apps or AI projects.
 - Looking to participate more in React or React Native open source projects.
 
 #### Bio:
