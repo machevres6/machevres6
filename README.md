@@ -13,7 +13,6 @@
 - 🌍 I want to get more active within the **React Community**
 - 🌍 I want to get more active within the **GraphQL Community**
 - 💬 Ping me about **Django**, **Python**, **Docker**, **GraphQL**, **RestAPIs**, **SQL**, **DL/ML**
-- 📝 Checkout my [Resume](files/Miguel_A_Chevres_Lopez_Resume.PDF).
 
 #### My Current Stack
 
